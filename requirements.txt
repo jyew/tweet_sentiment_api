@@ -1,0 +1,8 @@
+Flask==1.0
+Flask-Cors
+Flask-RESTful==0.3.6
+flask-restplus
+numpy==1.19.1
+pandas==1.1.1
+onnxruntime
+torch
