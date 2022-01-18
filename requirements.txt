@@ -2,7 +2,7 @@ Flask
 Flask-Cors
 Flask-RESTful
 flask-restplus
-numpy
-pandas
+# numpy
+# pandas
 onnxruntime
-torch
+# torch
