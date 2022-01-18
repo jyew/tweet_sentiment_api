@@ -1,8 +1,8 @@
-Flask==1.0
+Flask
 Flask-Cors
-Flask-RESTful==0.3.6
+Flask-RESTful
 flask-restplus
-numpy==1.19.1
-pandas==1.1.1
+numpy
+pandas
 onnxruntime
 torch
