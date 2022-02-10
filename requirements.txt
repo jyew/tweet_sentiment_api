@@ -2,7 +2,7 @@ Flask
 Flask-Cors
 Flask-RESTful
 flask-restplus
-# numpy
-# pandas
+pandas
 onnxruntime
-# torch
+Cython
+nemo_toolkit['all']

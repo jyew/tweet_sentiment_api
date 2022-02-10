@@ -1,5 +1,4 @@
-FROM nvcr.io/nvidia/nemo:v1.0.0b1
-# FROM python:3.7.7-slim
+FROM python:3.7.7-slim
 
 # ENV PYTHONUNBUFFERED=1
 
